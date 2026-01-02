@@ -66,7 +66,7 @@ restaurant-management-system/
 
 ##  Author
 
-Created by **Your Name**
+Created by Anjali Karhale
 
 ---
 
